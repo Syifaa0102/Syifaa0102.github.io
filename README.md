@@ -1,7 +1,7 @@
 # Aplikasi Penjualan Dengan Framework CodeIgniter 3 & Template SB Admin 2
 
 ### Fiturnya apa saja sih?
-Untuk fiturnya masih sangas sederhana, contohnya sebagai berikut
+Untuk fiturnya masih sangat sederhana, contohnya sebagai berikut
 1. **Modul Authentikasi**
    
    Di modul ini saya membuat fitur untuk login dan logout.
